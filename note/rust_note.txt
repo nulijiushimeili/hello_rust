@@ -1,0 +1,11 @@
+新建项目
+cargo new  hello_world --bin
+
+构建项目
+cargo buile
+
+检查项目
+cargo check
+
+运行项目
+cargo run
